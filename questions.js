@@ -1,19 +1,19 @@
 questions = 
     [[//Federal-Unitary`
         [//4
-            "There is no need for a national government",
-            "Subdivisions of nations should have their own militaries",
-            "State laws should have precedence over national laws"
+            "중앙 정부가 있을 필요는 없다.",
+            "국가의 하위 기관들은 각각의 군대를 가지고 있어야 한다.",
+            "지방의 법이 국가의 법보다 우선해야 한다."
         ],
         [//3
-            "State and local laws should have precedence over national laws",
-            "The national government can't understand what the people need.",
-            "People should hold more loyalty to their local state than their country."
+            "주(State)법과 지방의 법이 국가의 법보다 우선해야 한다.",
+            "중앙 정부는 사람들이 무엇이 필요한지를 이해할 수 없다.",
+            "사람들은 국가보다 자신의 지역 주(local state)에 충성심을 가져야 한다."
         ],
         [//2
-            "Local governments should have more power than they currently do",
-            "Laws should vary from area to area and culture to culture within a country.",
-            "It's a good idea to test a policy in one state rather than implementing it nationwide right away"
+            "지방 정부는 현재보다 더 많은 권력을 가져야 한다.",
+            "국가 내에서도 법은 지역마다 문화권마다 달라야 한다.",
+            "정책을 전국적으로 바로 적용하기 보단 한 주(State)에서 시험해보는 것이 좋다."
             
         ],
         [//1
@@ -47,7 +47,7 @@ questions =
             "Representatives rarely represent the nation well"
         ],
         [//3
-            "It is important that the government follows the majority opinion, even if it is wrong.",
+            "비록 다수의 의견이 잘못되었다 하더라도, 정부는 다수의 의견을 따라야 한다.",
             "The more people asked, the better chance there is of reaching the best decision.",
             "Nobody but me can adequately represent my views"
         ],
@@ -57,23 +57,23 @@ questions =
             "Each person should have one vote, each equal to every other"
         ],
         [//1
-            "Democracy is more than a decision-making process.",
+            "민주주의는 단순한 의사결정 과정 이상의 가치를 지닌다.",
             "People should have the power to choose their leaders",
             "The government must be by the people for the people"
         ],
         [//-1
-            "The stronger the leadership, the better.",
+            "리더십은 강할수록 좋다.",
             "Popular opinion is not always right",
             "Leaders must be strong or a nation will suffer"
         ],
         [//-2
-             "A hierarchical state is best.",
+             "계급 사회가 최고다.",
             "Society could not function without leaders and followers",
              "Democracy makes it too easy for a majority to further itself at the expense of minorities"
         ],
         [//-3
-            "The general populace makes poor decisions.",
-             "It is important that we further my group's goals above all others.",
+            "일반 대중들은 잘못된 결정을 내린다.",
+             "우리 공동체의 목표를 다른 어떤 공동체보다도 우선시하는 것이 중요하다.",
             "Public opinion swings too much with emotional events to be useful for policy making"
         ],
         [//-4
@@ -82,7 +82,7 @@ questions =
             "A nation must obey its leadership without question"
         ]],[//Globalist-Isolationist
         [//4
-            "A united world government would be beneficial to mankind.",
+            "연합된 세계정부는 인류에게 이로울 것이다.",
             "We are first and foremost citizens of Earth",
             "In order for humanity to survive, we must get past having separate nations"
         ],
@@ -92,8 +92,8 @@ questions =
             "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
         ],
         [//2
-            "I support regional unions, such as the European Union.",
-            "Governments should be accountable to the international community.",
+            "나는 유럽연합(EU)과 같은 지역 연합을 지지한다.",
+            "정부는 국제사회에 책임을 질 수 있어야 한다.",
             "Nations fighting among each other gets in the way of progress"
         ],
         [//1
@@ -102,18 +102,18 @@ questions =
             "Nations should cooperate whenever it benefits them both"
         ],
         [//-1
-            "It is important to maintain our national sovereignty.",
+            "우리의 국가 주권을 유지하는 것은 중요하다.",
             "My nation is closer to my views than most nations in the world",
             "I am proud to be in my country"
         ],
         [//-2
-            "International aid is a waste of money.",
+            "국제 원조는 돈 낭비다.",
             "Alliances can pose a threat to a nation's sovereignty.",
             "National cultures are important to protect"
         ],
         [//-3
             "My nation should stay out of international affairs",
-            "The United Nations should be abolished.",
+            "유엔(UN)은 폐지되어야 한다.",
             "Nobody in other countries has our best interests in mind"
         ],
         [//-4
@@ -132,7 +132,7 @@ questions =
             "Only those who served in the military should be able to gain power in government"
         ],
         [//2
-            "Military action by our nation is often necessary to protect it.",
+            "우리나라를 지키기 위한 군사 작전은 때때로 필수불가결하다.",
             "Countries that violate human rights should be toppled",
             "A military option should always be considered"
         ],
@@ -142,24 +142,24 @@ questions =
             "We should respect those who have served in our military"
         ],
         [//-1
-            "It is more important to retain peaceful relations than to further our strength.",
+            "국력 증대보다 (주변국과의) 평화로운 관계 유지가 더 중요하다.",
             "Diplomatic options should always be tried before war is even considered",
             "Peace is preferable to war whenever possible"
         ],
         [//-2
-            "Even when protesting an authoritarian government, violence is not acceptable.",
+            "권위주의적 정부에 대한 시위일지라도, 폭력 행위는 용납되면 안 된다.",
             "Lasting peace leads to prosperity",
             "War usually leads to worse outcomes"
         ],
         [//-3
-            "Military spending is a waste of money.",
+            "군사 비용(군비)은 돈 낭비이다.",
             "We have no right to militarily intervene in other nations",
             "Countries fall apart with constant war"
         ],
         [//-4
             "War is never justified",
             "In the modern era, militaries aren't really necessary",
-            "Nations should not maintain a military"
+            "Nations should not maintain a military
         ]],[//Security-Freedom
         [//4
             "Those who disagree with the government should be removed from the country",
@@ -168,13 +168,13 @@ questions =
         ],
         [//3
             "Police need more power and protection",
-            "It is very important to maintain law and order.",
+            "법과 질서를 유지하는 것은 매우 중요하다.",
             "A country must be sure to take all measures to enforce its laws"
         ],
         [//2
             "If you have nothing to hide, then you shouldn't care about the government having access to your communications",
-            "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-            "Government surveillance is necessary in the modern world."
+            "테러 행위로부터 우리를 보호하기 위해서는 시민의 자유를 희생시킬 수밖에 없다.",
+            "현대 사회에서는 정부의 감시가 필요하다."
         ],
         [//1
             "The government should have access to the emails of suspected terrorists",
@@ -197,42 +197,42 @@ questions =
             "Whistleblowers should be strongly protected"
         ],
         [//-4
-            "The very existence of the state is a threat to our liberty.",
+            "국가의 존재 자체가 우리의 자유에 대한 위협이다.",
             "There should be no police force",
             "People's freedom should have no limits"
         ]],[//Equality-Markets`
         [//4
             "Communism, if implemented correctly, would be a good form of economics",
-            "From each according to his ability, to each according to his need",
+            "능력에 따라 일하고 필요에 따른 분배를 해야 한다.",
             "Equality of outcome is important"
         ],
         [//3
-            "Oppression by corporations is more of a concern than oppression by governments.",
-            "Taxes should be increased on the rich to provide for the poor.",
-            "Public utilities like roads and electricity should be publicly owned."
+            "기업에 의한 억압은 정부에 의한 억압보다 더욱 우려스럽다.",
+            "부자들에 증세하여 그 돈을 가난한 사람들에게 제공해야 한다.",
+            "도로나 전기와 같은 기초재는 공영화되어야 한다."
         ],
         [//2
-            "I support single-payer, universal healthcare.",
+            "나는 단일 지불자, 보편적 건강보장을 지지한다.",
             "The wealthy have far more than they need",
             "Basic things needed to live, such as healthcare, are rights"
         ],
         [//1
-            "It is necessary for the government to intervene in the economy to protect consumers.",
+            "정부가 소비자를 보호하기 위해 경제에 개입할 필요가 있다.",
             "People should have equal opportunity to succeed",
             "People born to wealthy families have unfair success even when they aren't skilled and don't work hard"
         ],
         [//-1
-            "People should have the right to leave their wealth to their descendents",
-            "Excessive government intervention is a threat to the economy.",
+            "사람들은 자신의 재산을 후손에게 물려줄 권리가 있어야 한다.",
+            "과도한 정부의 개입은 경제에 위협이 된다.",
             "Economies without any capitalism will collapse"
         ],
         [//-2
-            "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+            "모든 시민의 복지를 보장하는 것보다 균형 잡힌 예산을 유지하는 것이 낫다.",
             "Capitalism is better than any existing alternative",
             "Government owned industry is usually a bad idea"
         ],
         [//-3
-            "The freer the market, the freer the people",
+            "시장이 자유로워질수록, 사람들도 더 자유로워진다.",
             "People should have to work for anything they get",
             "The poor choose to be poor"
         ],
@@ -269,12 +269,12 @@ questions =
         [//-2
             "I believe in a higher power",
             "Religious organizations often provide better assistance to the poor than the government does",
-            "Children should be educated in religious values."
+            "아이들은 종교적인 가치를 교육받아야 한다."
         ],
         [//-3
             "Religion usually provides the truth",
-            "My religious values should be spread as much as possible.",
-            "Sex outside marriage is immoral."
+            "나의 종교적 가치는 가능한 한 널리 퍼져야 한다.",
+            "결혼 이외의 성관계는 부도덕하다."
         ],
         [//-4
             "Theocracy is a good system of government",
@@ -283,12 +283,12 @@ questions =
         ]],[//Progressive-Traditional
         [//4
             "If AI could rule more effectively than humans, then AI should rule",
-            "Genetic modification is a force for good, even on humans.",
+            "유전자 변형은 사람에게 적용될지라도 좋은 영향을 끼칠 것이다.",
             "Tradition just hinders the progress of technology"
         ],
         [//3
             "Automation overall is extremely good for society",
-            "Traditions are of no value on their own.",
+            "전통은 그 자체로는 가치가 없다.",
             "When people have already suffered for technology to be developed, we should use that technology"
         ],
         [//2
@@ -299,22 +299,22 @@ questions =
         ],
         [//1
             "Human Caused climate change is currently one of the greatest threats to our way of life.",
-            "Environmental regulations are essential.",
-            "A better world will come from automation, science, and technology."
+            "환경 규제는 필수적이다.",
+            "더 나은 세상은 자동화, 과학 및 기술에서 나온다."
         ],
         [//-1
-            "To chase progress at all costs is dangerous.",
+            "가능한 모든 수단을 동원해 진보를 쫒는 것은 위험하다.",
             "Technology is not always beneficial",
             "Traditions are important"
         ],
         [//-2
             "Technology is negatively affecting modern society",
             "Genetic modification should be used rarely, if ever",
-            "Maintaining family values is essential."
+            "전통적인 가족관을 유지하는 것은 중요하다."
         ],
         [//-3
-            "Society was better many years ago than it is now.",
-            "It is important that we maintain the traditions of our past.",
+            "예전 사회가 지금 사회보다 좋았다.",
+            "과거의 전통을 유지하는 것이 중요하다.",
             "The elders in society know the best path for it"
         ],
         [//-4
@@ -329,7 +329,7 @@ questions =
         ],
         [//3
             "Only extremely talented immigrants, if that, should be permitted to enter the country",
-            "If we accept migrants at all, it is important that they assimilate into our culture.",
+            "이주민을 받아들인다면, 그들을 우리 문화에 동화시켜야 하는 것이 중요하다.",
             "Immigrants can never really adapt to our way of life"
         ],
         [//2
@@ -348,7 +348,7 @@ questions =
             "I enjoy some foreign cultures"
         ],
         [//-2
-            "No cultures are superior to others.",
+            "어떠한 문화도 다른 문화보다 우월하지 않다.",
             "We should be more accepting to other cultures",
             "All societies are a blend of cultures"
         ],
@@ -358,7 +358,7 @@ questions =
             "Our culture would be better with other cultures mixed in more"
         ],
         [//-4
-            "Governments should be as concerned about foreign citizens as they are about those within their borders.",
+            "정부는 내국인을 고려하는 만큼, 외국인에게도 신경을 써야 한다.",
             "Anybody who wants to enter the country should be able to",
             "The benefits of open borders would outweigh the costs"
         ]
