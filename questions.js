@@ -2,7 +2,7 @@ questions =
     [[//Federal-Unitary`
         [//4
             "중앙 정부가 있을 필요는 없다.",
-            "국가의 하위 기관들은 각각의 군대를 가지고 있어야 한다.",
+            "지방 자치 단체들은 각각의 군대를 가지고 있어야 한다.",
             "지방의 법이 국가의 법보다 우선해야 한다."
         ],
         [//3
@@ -17,194 +17,194 @@ questions =
             
         ],
         [//1
-            "Local governments can understand their citizens better than the national government could",
-            "Local governments address issues that the national government would never touch without them",
-            "Local governments give each region good representation of their views"
+            "지방 정부가 중앙 정부보다 더 시민들을 잘 이해할 수 있다.",
+            "지방 정부는 중앙 정부가 다루지 않는 문제를 다뤄야 한다.",
+            "지방 정부는 각 지역의 관점을 잘 대변한다."
         ],
         [//-1
-            "A country cannot function without a national government",
-            "The national government protects minorities better than some local governments do.",
-            "There are many issues that it does not make sense to address at a local level"
+            "국가는 중앙 정부없이 기능할 수 없다.",
+            "중앙 정부가 지방 정부보다 소수자를 더 잘 보호한다.",
+            "지방 단계에서 다루기엔 말도 안되는 문제들이 많다."
         ],
         [//-2
-            "The national government needs more power",
-            "Subdivisions should not be able to exempt from national laws",
-            "People should think of themselves as citizens of their nation rather than their state"
+            "중앙 정부는 더 많은 권력이 필요하다.",
+            "지방 자치 단체는 국가의 법에서 벗어나서는 안된다.",
+            "사람들은 그들의 주(State)의 시민이라는 생각보단 국가의 국민이라는 생각을 가져야 한다."
         ],
         [//-3
-            "A group of states without a strong national government is merely an alliance, not a nation",
-            "A national government must be strong to adequately protect all its citizens",
-            "States cannot function without a strong national government"
+            "강력한 중앙 정부 없는 주(State)의 연합은 그저 연맹일 뿐 국가가 아니다.",
+            "중앙 정부는 모든 국민을 보호할 수 있을 정도로 강력해야 한다.",
+            "주(State)는 강력한 중앙 정부 없이는 제대로 기능할 수 없다."
         ],
         [//-4
-            "There is no need for local or state governments",
-            "Laws should be completely consistent within all regions of a nation",
-            "Strong states weaken a nation"
+            "지방 정부나 주(State) 정부가 존재할 필요가 없다.",
+            "법은 국가의 모든 지역에서 일관적이어야 한다.",
+            "강력한 주(State)는 국가를 약화시킨다."
         ]],[//Democratic-Authoritarian`
         [//4
-            "Direct democracy is the best form of government",
-            "People should vote issue by issue themselves",
-            "Representatives rarely represent the nation well"
+            "직접 민주제는 가장 좋은 정부의 형태이다.",
+            "사람들은 모든 사안을 투표로 정해야 한다.",
+            "대의원은 국가를 잘 대변하지 못한다."
         ],
         [//3
             "비록 다수의 의견이 잘못되었다 하더라도, 정부는 다수의 의견을 따라야 한다.",
-            "The more people asked, the better chance there is of reaching the best decision.",
-            "Nobody but me can adequately represent my views"
+            "많은 사람이 요청할 수록, 더 좋은 결정일 가능성이 있다.",
+            "오직 나만이 내 관점을 잘 대변할 수 있다."
         ],
         [//2
-            "Elections are an effective way of showing government approval",
-            "Democracy is the worst form of government, except for all the others we've tried.",
-            "Each person should have one vote, each equal to every other"
+            "선거는 정부에 대한 지지를 잘 나타내는 방법이다.",
+            "이전의 정치 제도보다는 나은 것은 맞지만, 민주주의는 최악의 정치제도이다.",
+            "모든 사람은 평등하게 한 표씩을 행사해야 한다."
         ],
         [//1
             "민주주의는 단순한 의사결정 과정 이상의 가치를 지닌다.",
-            "People should have the power to choose their leaders",
-            "The government must be by the people for the people"
+            "사람들은 자신의 지도자를 고를 힘이 있다.",
+            "정부는 국민에 의한, 국민을 위한 것이어야 한다."
         ],
         [//-1
             "리더십은 강할수록 좋다.",
-            "Popular opinion is not always right",
-            "Leaders must be strong or a nation will suffer"
+            "대중들의 의견이 항상 옳은 건 아니다.",
+            "지도자가 강하지 않으면 국가는 고통을 겪을 것이다."
         ],
         [//-2
              "계급 사회가 최고다.",
-            "Society could not function without leaders and followers",
-             "Democracy makes it too easy for a majority to further itself at the expense of minorities"
+            "사회는 지도자와 지지자 없이는 기능할 수 없다.",
+             "민주주의는 다수가 소수를 희생시켜가며 발전하는 것을 쉽게 한다."
         ],
         [//-3
             "일반 대중들은 잘못된 결정을 내린다.",
              "우리 공동체의 목표를 다른 어떤 공동체보다도 우선시하는 것이 중요하다.",
-            "Public opinion swings too much with emotional events to be useful for policy making"
+            "대중의 의견은 정책을 만드는 데 참고하기엔 너무 감정에 휘둘린다."
         ],
         [//-4
-            "Elections are a waste of resources",
-            "Catering to popular opinion is detrimental to a nation",
-            "A nation must obey its leadership without question"
+            "선거는 자원낭비다.",
+            "대중의 수요를 충족하는 것은 국가에 해롭다.",
+            "국가는 지도자를 아무 말 없이 따라야 한다."
         ]],[//Globalist-Isolationist
         [//4
             "연합된 세계정부는 인류에게 이로울 것이다.",
-            "We are first and foremost citizens of Earth",
-            "In order for humanity to survive, we must get past having separate nations"
+            "우리는 가장 중요한 지구 시민이다.",
+            "인류가 생존하기 위해선 분리된 국가를 타파해야 한다."
         ],
         [//3
-            "The United Nations needs more power",
-            "The United Nations should have a military to enforce its resolutions",
-            "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
+            "유엔(UN)은 더 많은 권력을 가져야 한다.",
+            "유엔(UN)은 결의안을 시행하기 위한 군사력이 필요하다.",
+            "국제 갈등의 여지가 있는 분리된 국가를 유지하는 건 인류 전반에 대한 위협이다."
         ],
         [//2
             "나는 유럽연합(EU)과 같은 지역 연합을 지지한다.",
             "정부는 국제사회에 책임을 질 수 있어야 한다.",
-            "Nations fighting among each other gets in the way of progress"
+            "서로 싸우는 국가는 진보를 방해한다."
         ],
         [//1
-            "International trade is generally beneficial.",
-            "Alliances are important for protecting a nation",
-            "Nations should cooperate whenever it benefits them both"
+            "국제 무역은 일반적으로 이롭다.",
+            "연합은 국가를 보호하는데 중요하다.",
+            "국가는 서로에게 이익이 될 때는 언제든지 협동해야 한다."
         ],
         [//-1
             "우리의 국가 주권을 유지하는 것은 중요하다.",
-            "My nation is closer to my views than most nations in the world",
-            "I am proud to be in my country"
+            "내 나라는 어떤 나라보다 나의 관점과 가깝다.",
+            "나는 내 나라에 있는 것이 자랑스럽다."
         ],
         [//-2
             "국제 원조는 돈 낭비다.",
-            "Alliances can pose a threat to a nation's sovereignty.",
-            "National cultures are important to protect"
+            "연합은 국가 주권에 위협이 된다.",
+            "국가적 문화를 보호하는 것은 중요하다."
         ],
         [//-3
-            "My nation should stay out of international affairs",
+            "우리 나라는 국제적 사건에서 빠져있어야 한다.",
             "유엔(UN)은 폐지되어야 한다.",
-            "Nobody in other countries has our best interests in mind"
+            "다른 국가의 사람들은 우리의 이익을 생각하지 않는다."
         ],
         [//-4
-            "Diplomacy only hurts nations",
-            "There should not be international law",
-            "Any deals other countries want must be bad for us"
+            "외교는 국가에 해롭기만 하다.",
+            "국제법은 있어서는 안된다.",
+            "다른 국가와의 어떤 거래도 우리에게 해롭다."
         ]],[//Militarist-Pacifist
         [//4
-            "War is needed to make an economy thrive",
-            "A constant state of war benefits a country",
-            "Only those who serve in the military should be allowed to have influence on who is in power"
+            "전쟁은 경제가 부흥하기 위해 필요하다.",
+            "지속적인 전쟁상태는 국가에 이익이 된다.",
+            "군에 복무하고 있는 사람에게만 권력자에게 영향을 미치는 것이 허용된다."
         ],
         [//3
-            "There should be compulsory military service",
-            "Countries that do not serve our interests should be toppled",
-            "Only those who served in the military should be able to gain power in government"
+            "징병제는 있어야 한다.",
+            "우리에게 이득을 주지 않는 국가를 무너뜨려야 한다.",
+            "군에 복무하고 있는 사람만 정부에서 힘을 쓸 수 있어야 한다."
         ],
         [//2
             "우리나라를 지키기 위한 군사 작전은 때때로 필수불가결하다.",
-            "Countries that violate human rights should be toppled",
-            "A military option should always be considered"
+            "인권을 침해하는 국가를 무너뜨려야 한다.",
+            "군사적 선택지는 항상 고려되어야 한다."
         ],
         [//1
-            "A government must maintain a strong military to defend itself",
-            "A nation usually needs a military in order to survive",
-            "We should respect those who have served in our military"
+            "정부는 스스로를 지키기 위해 강한 군사력을 유지해야 한다.",
+            "국가는 살아남기 위해 군대가 필요하다.",
+            "우리는 우리 군에서 복무했던 사람을 존경해야 한다."
         ],
         [//-1
             "국력 증대보다 (주변국과의) 평화로운 관계 유지가 더 중요하다.",
-            "Diplomatic options should always be tried before war is even considered",
-            "Peace is preferable to war whenever possible"
+            "전쟁을 고려하기 전에 외교적 선택지를 먼저 채택해 봐야 한다.",
+            "가능하다면 전쟁보단 평화를 선호해야 한다."
         ],
         [//-2
             "권위주의적 정부에 대한 시위일지라도, 폭력 행위는 용납되면 안 된다.",
-            "Lasting peace leads to prosperity",
-            "War usually leads to worse outcomes"
+            "평화를 유지하는 것이 번영의 길이다.",
+            "전쟁은 보통 안좋은 결과를 낸다."
         ],
         [//-3
             "군사 비용(군비)은 돈 낭비이다.",
-            "We have no right to militarily intervene in other nations",
-            "Countries fall apart with constant war"
+            "우리는 다른 나라에 군사적 개입을 할 권리가 없다.",
+            "지속적인 전쟁이 국가를 무너뜨린다."
         ],
         [//-4
-            "War is never justified",
-            "In the modern era, militaries aren't really necessary",
-            "Nations should not maintain a military
+            "전쟁은 절대 정당화될 수 없다.",
+            "현대에는 군대는 필요하지 않다.",
+            "국가는 군대를 유지하지 말아야 한다."
         ]],[//Security-Freedom
         [//4
-            "Those who disagree with the government should be removed from the country",
-            "The government should monitor all citizens to combat terrorism",
-            "People should not have protections that could hinder discovering their criminal activity"
+            "정부의 의견을 따르지 않는 사람은 제거되어야 한다.",
+            "정부는 테러에 맞서기 위해 모든 국민들을 감시해야 한다.",
+            "국민의 개인정보를 보호하는 것이 범죄 활동을 추적하는 것에 방해가 된다면 보호받지 말아야 한다."
         ],
         [//3
-            "Police need more power and protection",
+            "경찰은 더 많은 권력을 지니고 보호받아야 한다.",
             "법과 질서를 유지하는 것은 매우 중요하다.",
-            "A country must be sure to take all measures to enforce its laws"
+            "국가는 법을 집행하는데 모든 수단을 취해야만 한다.
         ],
         [//2
-            "If you have nothing to hide, then you shouldn't care about the government having access to your communications",
+            "숨길 것이 없다면, 사람들은 정부가 통신기록을 조회하는 것에 신경쓰지 말아야 한다.",
             "테러 행위로부터 우리를 보호하기 위해서는 시민의 자유를 희생시킬 수밖에 없다.",
             "현대 사회에서는 정부의 감시가 필요하다."
         ],
         [//1
-            "The government should have access to the emails of suspected terrorists",
-            "Some freedom must be given up in order to keep people safe",
-            "Absolute freedom makes a society dangerous"
+            "정부는 테러 용의자의 이메일에 접근할 수 있어야 한다.",
+            "사람들의 안전을 위해선 자유를 일부 포기해야 한다.",
+            "전적인 자유는 사회를 위험하게 만든다."
         ],
         [//-1
-            "Marijuana should be legalized",
-            "People should be given freedom whenever it causes little security risk",
-            "The government has no business looking into most people's personal lives"
+            "대마초는 합법화 되어야 한다.",
+            "그것이 안보의 조금 위협이 되더라도 사람들에겐 자유가 주어져야 한다.",
+            "정부에겐 사람들의 사생활을 들여다 볼 권리가 없다."
         ],
         [//-2
-            "Abortion should be legal in all cases",
-            "Police should be regulated more",
-            "No authority should be left unquestioned."
+            "낙태는 모든 경우에서 합법화되어야 한다.",
+            "경찰은 더 규제를 받아야 한다.",
+            "권위에 의문을 표하지 않으면 안된다."
         ],
         [//-3
-            "Victimless crimes (such as drug use) should not be crimes at all.",
-            "Most drugs should be legalized",
-            "Whistleblowers should be strongly protected"
+            "마약 사용과 같은 피해자 없는 범죄를 불법화하면 안된다.",
+            "대부분의 약물은 합법화 되어야 한다.",
+            "내부 고발자는 강력히 보호받아야 한다."
         ],
         [//-4
             "국가의 존재 자체가 우리의 자유에 대한 위협이다.",
-            "There should be no police force",
-            "People's freedom should have no limits"
+            "경찰 권력은 없어야 한다.",
+            "사람들의 자유에 제한은 없어야 한다."
         ]],[//Equality-Markets`
         [//4
-            "Communism, if implemented correctly, would be a good form of economics",
+            "제대로만 기능한다면 공산주의는 좋은 경제체제이다.",
             "능력에 따라 일하고 필요에 따른 분배를 해야 한다.",
-            "Equality of outcome is important"
+            "결과의 평등이 중요하다."
         ],
         [//3
             "기업에 의한 억압은 정부에 의한 억압보다 더욱 우려스럽다.",
@@ -213,153 +213,153 @@ questions =
         ],
         [//2
             "나는 단일 지불자, 보편적 건강보장을 지지한다.",
-            "The wealthy have far more than they need",
-            "Basic things needed to live, such as healthcare, are rights"
+            "부자들은 필요보다 많이 가지고 있다.",
+            "건강보장과 같이 생존에 필수적인 것은 기본권이다."
         ],
         [//1
             "정부가 소비자를 보호하기 위해 경제에 개입할 필요가 있다.",
-            "People should have equal opportunity to succeed",
-            "People born to wealthy families have unfair success even when they aren't skilled and don't work hard"
+            "사람들은 성공하기 위해 평등한 기회가 필요하다.",
+            "부유한 집안에서 태어난 사람은 능력이 없고 열심히 일하지 않아도 불공평하게 성공한다."
         ],
         [//-1
             "사람들은 자신의 재산을 후손에게 물려줄 권리가 있어야 한다.",
             "과도한 정부의 개입은 경제에 위협이 된다.",
-            "Economies without any capitalism will collapse"
+            "자본주의 요소가 없는 경제는 무너질 것이다."
         ],
         [//-2
             "모든 시민의 복지를 보장하는 것보다 균형 잡힌 예산을 유지하는 것이 낫다.",
-            "Capitalism is better than any existing alternative",
-            "Government owned industry is usually a bad idea"
+            "자본주의는 어떠한 대안들보다 좋은 체제이다.",
+            "국영 산업은 주로 나쁜 생각이다.
         ],
         [//-3
             "시장이 자유로워질수록, 사람들도 더 자유로워진다.",
-            "People should have to work for anything they get",
-            "The poor choose to be poor"
+            "사람들은 뭐든지 얻기 위해선 일을 해야 한다.",
+            "가난한 자는 스스로 가난하기를 선택한 것이다."
         ],
         [//-4
-            "The government should not regulate the economy at all",
-            "The government should not break up monopolies",
-            "Those who do not work should die"
+            "정부는 경제에 전혀 개입을 하지 말아야 한다.",
+            "정부는 독점을 깨부수면 안된다.",
+            "일하지 않는 자는 죽어야 한다."
         ]],[//Secular-Religious
         [//4
-            "Religion should be banned",
-            "Faith is complete nonsense",
-            "Religion must decline for society to progress"
+            "종교는 금지되어야 한다.",
+            "신앙이라는 것은 터무니 없는 것이다.",
+            "종교는 진보를 위해서 사라져야 한다."
         ],
         [//3
-            "Religious clothing should be banned from public",
-            "There is no higher power",
-            "The government should not fund any religious organizations in any way"
+            "공공장소에서 종교 복장은 금지되어야 한다.",
+            "신은 없다.",
+            "정부는 어떤 종교 기관도 후원해서는 안된다."
         ],
         [//2
-            "I support gay marriage",
-            "Every religion must be looked upon equally by the government",
-            "Religion should be removed from everything in our government"
+            "나는 동성 결혼을 지지한다.",
+            "모든 종교가 정부에게 똑같이 취급되어야 한다.",
+            "종교는 우리 정부의 모든 곳에서 배제되어야 한다."
         ],
         [//1
-            "Religion does not belong in government",
-            "Laws should not be based on religion",
-            "There must be a separation between church and state"
+            "종교는 정부에 속하지 않는다.",
+            "법은 종교에 기반하면 안된다.",
+            "교회와 국가는 분리되어야 한다."
         ],
         [//-1
-            "I believe there is something after death",
-            "Religion is beneficial for society",
-            "People must be allowed to follow a religion"
+            "나는 사후세계를 믿는다.",
+            "종교는 사회에 유익하다.",
+            "사람들은 종교를 따라야 한다."
         ],
         [//-2
-            "I believe in a higher power",
-            "Religious organizations often provide better assistance to the poor than the government does",
+            "나는 신을 믿는다.",
+            "종교단체는 정부보다 빈자에게 더 나은 도움을 준다.",
             "아이들은 종교적인 가치를 교육받아야 한다."
         ],
         [//-3
-            "Religion usually provides the truth",
+            "종교는 주로 진실을 제공한다.",
             "나의 종교적 가치는 가능한 한 널리 퍼져야 한다.",
             "결혼 이외의 성관계는 부도덕하다."
         ],
         [//-4
-            "Theocracy is a good system of government",
-            "The government should support and only recognize one religion",
-            "Most bad things happening in the world are caused by us turning away from religion"
+            "신권 정치는 훌륭한 정치 체제이다.",
+            "정부는 한 종교만 지지하고 인정해야 한다.",
+            "세상에서 일어나는 대부분의 안좋은 일들은 종교에서 등을 돌렸기 때문에 일어난다."
         ]],[//Progressive-Traditional
         [//4
-            "If AI could rule more effectively than humans, then AI should rule",
+            "인공지능이 인간보다 더 잘 통치할 수 있다면 인공지능이 통치해야 한다.",
             "유전자 변형은 사람에게 적용될지라도 좋은 영향을 끼칠 것이다.",
-            "Tradition just hinders the progress of technology"
+            "전통은 그저 기술 발전을 방해한다."
         ],
         [//3
-            "Automation overall is extremely good for society",
+            "전반적인 자동화는 사회에 매우 좋다.",
             "전통은 그 자체로는 가치가 없다.",
-            "When people have already suffered for technology to be developed, we should use that technology"
+            "사람들이 기술을 개발하기 위해 고통 받았다면, 우리는 그 기술을 사용해야한다."
         ],
         [//2
-            "We should put effort into getting a person on Mars in the near future",
-            "Testing products on animals is ethical",
-            "Technological progress is usually good"
+            "근미래에 화성에 사람을 보내기 위해 노력해야 한다.",
+            "동물실험은 윤리적이다.",
+            "기술 발전은 보통 좋다."
             
         ],
         [//1
-            "Human Caused climate change is currently one of the greatest threats to our way of life.",
+            "인간이 만들어낸 기후 변화가 우리 삶의 방식에 가장 큰 위협 중 하나다.",
             "환경 규제는 필수적이다.",
             "더 나은 세상은 자동화, 과학 및 기술에서 나온다."
         ],
         [//-1
             "가능한 모든 수단을 동원해 진보를 쫒는 것은 위험하다.",
-            "Technology is not always beneficial",
-            "Traditions are important"
+            "기술이 항상 유익하지는 않다.",
+            "전통은 중요하다."
         ],
         [//-2
-            "Technology is negatively affecting modern society",
-            "Genetic modification should be used rarely, if ever",
+            "기술은 현대 사회에 부정적인 영향을 끼치고 있다.",
+            "유전자 조작은 굳이 쓰이더라도 거의 쓰이지 말아야 한다.",
             "전통적인 가족관을 유지하는 것은 중요하다."
         ],
         [//-3
             "예전 사회가 지금 사회보다 좋았다.",
             "과거의 전통을 유지하는 것이 중요하다.",
-            "The elders in society know the best path for it"
+            "노인들은 사회가 갈 최선의 길을 안다."
         ],
         [//-4
-            "Traditional medicines are often more effective than modern medicines",
-            "The Internet should be banned",
-            "We must go back to a basic way of life without modern conveniences."
+            "전통적 기계가 현대의 기계보다 훨씬 효과적이다.",
+            "인터넷은 금지되어야 한다.",
+            "우리는 현대의 편의시설 없는 삶의 방식으로 되돌아가야 한다."
         ]],[//Assimilationist-Multiculturalist
         [//4
-            "Foreigners should never enter the country",
-            "We should not allow any refugees",
-            "Only our national language(s) should be spoken in our country"
+            "외국인은 절대 우리나라로 들어올 수 없다.",
+            "우리는 난민을 받아들여서는 안된다.",
+            "오직 우리의 국어만이 우리나라에서 쓰여야 한다."
         ],
         [//3
-            "Only extremely talented immigrants, if that, should be permitted to enter the country",
+            "오직 매우 유능한 이민자만 우리나라에 들어오는 것을 허락해야 한다.",
             "이주민을 받아들인다면, 그들을 우리 문화에 동화시켜야 하는 것이 중요하다.",
-            "Immigrants can never really adapt to our way of life"
+            "이민자들은 우리의 생활방식에 절대로 적응할 수 없다."
         ],
         [//2
-            "In general, immigrants are bad for the country",
-            "A nation's culture is important to protect",
-            "Illegal immigrants do not provide a benefit to the hosting country"
+            "일반적으로 이민자들은 국가에 유해하다.",
+            "국가의 문화를 보호하는 것은 중요하다.",
+            "불법 이민자는 나라에 이익을 가져다 주지 않는다."
         ],
         [//1
-            "Illegal immigrants should be deported in most or all cases",
-            "Immigrants should be expected to learn the language of the country",
-            "Border protection is important"
+            "불법 이민자들은 모두 추방되어야 한다.",
+            "이민자들은 그 나라의 언어를 배워야 한다.",
+            "국경을 수호하는 것이 중요하다."
         ],
         [//-1
-            "We should be taking in more refugees",
-            "Immigrants are a net positive",
-            "I enjoy some foreign cultures"
+            "우리는 난민을 더 받아야 한다.",
+            "이민자들은 순전히 긍정적이다.",
+            "나는 외국 문화를 즐긴다."
         ],
         [//-2
             "어떠한 문화도 다른 문화보다 우월하지 않다.",
-            "We should be more accepting to other cultures",
-            "All societies are a blend of cultures"
+            "우리는 다른 문화에 포용적이어야 한다.",
+            "모든 사회는 문화들의 융합이다."
         ],
         [//-3
-            "Everybody should speak at least two languages",
-            "All humans share a common identity",
-            "Our culture would be better with other cultures mixed in more"
+            "모든 사람이 적어도 2개의 언어는 구사해야 한다.",
+            "모든 사람은 공통된 정체성을 공유한다.",
+            "다른 문화가 섞이면 우리 문화는 더욱 더 좋아질 것이다."
         ],
         [//-4
             "정부는 내국인을 고려하는 만큼, 외국인에게도 신경을 써야 한다.",
-            "Anybody who wants to enter the country should be able to",
-            "The benefits of open borders would outweigh the costs"
+            "우리나라에 들어오고 싶어하는 누구든지 들어올 수 있어야 한다.",
+            "국경을 여는 것에 득은 실보다 많다."
         ]
     ]];
